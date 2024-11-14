@@ -1,0 +1,16 @@
+def Grades():
+    pass
+  #a teacher has put his students' grades into a list. 
+  #find the average mark in his class.(Hint: use the sum() function!)
+  #Replace "pass" with the contents of your function
+
+marks =[37,84,76,92,88,98,65]
+
+
+#Problem 2:
+
+    #A Club wants to make a list of the names of all its members. 
+    #Create this list, then replace one of the names.
+    #Hint: use square brackets when making or indexing the list!
+    
+#e.g club =[1,2,3,4] ----> club[2]=7
